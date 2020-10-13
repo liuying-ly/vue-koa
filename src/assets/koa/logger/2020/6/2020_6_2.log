@@ -1,0 +1,14 @@
+2020-6-2 23:13:21 :OPTIONS /user/getSort - 0mss
+2020-6-2 23:13:21 :POST /user/getSort - 108ms
+2020-6-2 23:13:21 :POST /user/getGoods - 123ms
+2020-6-2 23:13:21 :GET /file/getImg?imagePath=1589475021999 - 404
+2020-6-2 23:13:21 :OPTIONS /user/login - 0ms
+2020-6-2 23:13:21 :POST /user/login - 35ms
+2020-6-2 23:13:21 :OPTIONS /user/addUser - 0ms
+2020-6-2 23:13:21 :POST /user/addUser - 18ms
+2020-6-2 23:13:21 :OPTIONS /user/login - 0ms
+2020-6-2 23:13:21 :POST /user/login - 5ms
+2020-6-2 23:13:21 :OPTIONS /user/upUser - 0ms
+2020-6-2 23:13:21 :POST /user/upUser - 4ms
+2020-6-2 23:13:21 :OPTIONS /user/login - 0ms
+2020-6-2 23:13:21 :POST /user/login - 6ms

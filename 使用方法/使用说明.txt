@@ -1,0 +1,10 @@
+(1)搭建环境
+    打开cmd命令提示符，输入node -v安装node，输入node -v检查是否安装成功，若显示版本号则安装成功,
+    输入npm -v安装npm包管理工具，输入npm -v检查是否安装成功，若显示版本号则安装成功，
+    输入npm install -g vue-cli全局安装vue-cli脚手架,输入vue -v检查是否安装成功，若显示版本号则安装成功。
+    下载MongoDB数据库。
+(2)运行项目   
+    双击star文件启动数据库，在“Meng宠”文件目录下打开命令提示符，输入npm run serve运行前台，
+    在“Meng宠/src/assets/koa”文件目录下打开命令提示符输入npm start运行后台，
+    打开浏览器，在网址栏输入http://localhost:8080/会显示前台的首页，
+    在网址栏输入http://localhost:8080/?#/admin_login/就会打开后台的登录页。

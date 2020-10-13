@@ -1,0 +1,9 @@
+
+2020-3-29 8:49:20 :OPTIONS /user/getGoods - 17ms
+2020-3-29 8:49:20 :OPTIONS /user/getSort - 0ms
+2020-3-29 8:49:20 :POST /user/getGoods - 50ms
+2020-3-29 8:49:20 :POST /user/getSort - 833ms
+2020-3-29 8:49:20 :OPTIONS /user/login - 1ms
+2020-3-29 8:49:20 :POST /user/login - 77ms
+2020-3-29 8:49:20 :OPTIONS /user/login - 0ms
+2020-3-29 8:49:20 :POST /user/login - 3ms
